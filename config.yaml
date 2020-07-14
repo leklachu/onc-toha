@@ -1,0 +1,42 @@
+baseURL: https://onc-toha.netlify.app/
+languageCode: en-gb
+title: Operation Nepali Child
+theme: "toha"
+
+# Allow raw html in markdown file
+markup:
+   godlmark:
+      renderer:
+         unsafe: true
+
+# Google analytics
+# not yet
+
+# Disqus
+# nope
+
+# Global emoji support
+enableEmoji: true
+
+# custom params
+params:
+   #copyright
+   copyright: (c) 2020 the Developers
+   # background image of landing page
+   background: "images/header.png"
+   # Git rep
+   # no
+   # Blog posts
+   enableBlogPost: false
+   # Custom menus
+   #customMenus: ...
+   author:
+      name: "Operation Nepali Child"
+      image: "images/avatar.jpg"
+      contactInfo:
+         email: "onc@nepal"
+         phone: "+977 1"
+      summary:
+      - Helping Children in Need
+      - Providing Education and a Home
+      - Love, Care and Opportunities
