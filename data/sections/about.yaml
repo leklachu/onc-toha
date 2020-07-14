@@ -1,0 +1,46 @@
+section:
+   name: About
+   enable: true
+   weight: 1
+   showOnNavbar: true
+
+designation: Helping Children in Need
+# company: name:|url:
+
+# resume:
+
+summary: "We help children in Nepal who are orphaned, neglected or otherwise unable to live safely and receive healthcare and education. Operation Nepali Child supports two children's homes full time and helps other shelters and families whenever we can."
+
+socialLinks:
+- name: email
+  icon: "fas fa-envelope"
+  url: "mailto:onc@nepal"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/operationnepalichild"
+
+softSkills:
+- name: Safety
+  percentage: 100
+  color: blue
+
+- name: Family
+  percentage: 100
+  color: yellow
+
+- name: Education
+  percentage: 100
+  color: pink
+
+- name: Love
+  percentage: 100
+  color: orange
+
+- name: Opportunity
+  percentage: 100
+  color: sky
+
+- name: Health
+  percentage: 100
+  color: green

@@ -1,0 +1,10 @@
+section:
+   name: Trustees
+   enable: true
+   weight: 2
+   showOnNavbar: true
+
+achievements:
+- title: Edward Turner
+  image: images/ed.jpg
+  summary: Edward Turner, Founder
