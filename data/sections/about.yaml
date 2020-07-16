@@ -26,6 +26,10 @@ socialLinks:
   icon: "fas fa-phone"
   url: "+9779808407841"
 
+- name: WhatsApp
+  icon: "fab fa-whatsapp"
+  url: "https://wa.me/9779808407841?text=Enquiring%20about%20Operation%20Nepali%20Child"
+
 mugShots:
 - name: Ed
   percentage: 100
