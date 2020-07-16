@@ -14,6 +14,9 @@
       <p class="p-1 text-justify">
         {{ .summary | markdownify }}
       </p>
+      <!-- <p class="p&#45;1 text&#45;justify"> -->
+      <!--   {{ .summary | markdownify }} -->
+      <!-- </p> -->
       <div class="text-container ml-auto">
         <ul class="social-link d-flex">
           {{ range .socialLinks }}
@@ -21,7 +24,11 @@
             {{ if eq .name "Email" }}
               <a href="mailto:{{ .url }}" target="/"><i class="{{ .icon }}"></i></a>
             {{ else }}
-              <a href="{{ .url }}" target="/"><i class="{{ .icon }}"></i></a>
+					{{ if eq .name "Phone" }}
+					  <a href="tel:{{ .url }}" target="/"><i class="{{ .icon }}"></i></a>
+					{{ else }}
+					  <a href="{{ .url }}" target="/"><i class="{{ .icon }}"></i></a>
+					{{ end }}
             {{ end }}
           </li>
           {{ end }}
@@ -36,8 +43,8 @@
     <!-- soft skills circular-progressbar -->
     <div class="col-md-6 pt-5 pl-md-4 pl-sm-3 pt-md-0">
       <div class="row">
-        {{ range .softSkills }}
-          {{ partial "progress/soft-skills" . }}
+        {{ range .mugShots }}
+          {{ partial "soft-skills-plus" . }}
         {{ end }}
       </div>
     </div>

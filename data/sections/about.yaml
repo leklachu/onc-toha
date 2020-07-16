@@ -11,36 +11,48 @@ designation: Helping Children in Need
 
 summary: "We help children in Nepal who are orphaned, neglected or otherwise unable to live safely and receive healthcare and education. Operation Nepali Child supports two children's homes full time and helps other shelters and families whenever we can."
 
+summary2: ""
+
 socialLinks:
-- name: email
+- name: Email
   icon: "fas fa-envelope"
-  url: "mailto:operationnepali@gmail.com"
+  url: "operationnepali@gmail.com"
 
 - name: Facebook
   icon: "fab fa-facebook"
   url: "https://www.facebook.com/operationnepalichild"
 
-softSkills:
-- name: Safety
+- name: Phone
+  icon: "fas fa-phone"
+  url: "+9779808407841"
+
+mugShots:
+- name: Ed
   percentage: 100
   color: blue
+  mugshot: "images/mug/eds-shoulders-250.jpg"
 
-- name: Family
+- name: work
   percentage: 100
   color: yellow
+  mugshot: "images/mug/working.jpg"
 
-- name: Education
+- name: Matt
   percentage: 100
   color: pink
+  mugshot: "images/mug/matt-at-sharada.jpg"
 
-- name: Love
+- name: Milan
   percentage: 100
   color: orange
+  mugshot: "images/mug/milan-pedro.jpg"
 
-- name: Opportunity
+- name: Abihu-et-al
   percentage: 100
   color: sky
+  mugshot: "images/mug/abihu.jpg"
 
-- name: Health
+- name: Girls
   percentage: 100
   color: green
+  mugshot: "images/mug/girls.jpg"
