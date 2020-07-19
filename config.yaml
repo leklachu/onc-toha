@@ -27,14 +27,14 @@ params:
    # Git rep
    # no
    # Blog posts
-   enableBlogPost: false
+   enableBlogPost: true
    # Custom menus
    #customMenus: ...
    author:
       name: "Operation Nepali Child"
       image: "images/avatar.jpg"
       contactInfo:
-         email: "operationnepali@gmail.com"
+         email: "ed@onc.org.uk"
          phone / WhatsApp / Viber: "+977 9808407842"
          UK phone: "+44 (0) 7551839717"
          Mailing Address: "110 Ombersley Road, WR37EZ"
