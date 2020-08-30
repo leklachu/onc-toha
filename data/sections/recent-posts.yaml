@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Recent Posts
+  name: Projects and News
   enable: true
   weight: 2
   showOnNavbar: true
