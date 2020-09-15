@@ -13,7 +13,7 @@ On Saturday morning of September 12th, Operation Nepali Child's (ONC) founder, E
 
 It is located about 35km, a 1hr 30 minute drive by motorbike from Satdobato (a ring road junction in Kathmandu). Up until the small settlement of Tinpane, there is a road all the way. However, after this we had to drive up an off road track for about 30 minutes, ascending to an altitude of approximately 1,900 metres, until we finally reached the rural and remote village of Pakhola. 
 
-We were there to meet some of the local leaders in the village, including the Principal, Ajay Lama of the local government primary school, Shree Kali Devi Basic School. We had a small program with about thirty five children from the village, all of Tamang ethnicity. We presented them all with basic stationery and some Cabdury's chocolate. 
+We were there to meet some of the local leaders in the village, including the Principal, Ajay Lama of the local government primary school, Shree Kali Devi Basic School. We had a small program with about thirty five children from the village, all of Tamang ethnicity. We presented them all with basic stationery and some Cadbury's chocolate. 
 
 We found out that access to education for most of the children was very limited and most of their families find it very difficult to afford even the most basic essentials for their children's education. After some inquiry, we made a list of things which would be of great help to the local children in the coming months.
 This included:
