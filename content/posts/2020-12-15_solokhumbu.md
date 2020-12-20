@@ -1,5 +1,5 @@
 ---
-title: "ONC Visit to Solu Khumbhu: 29th November to 3rd December 2020"
+title: "ONC Visit to Solu Khumbu: 29th November to 3rd December 2020"
 date: 2020-12-15
 hero: "/images/news/2020/pikey-2.jpg"
 author:
