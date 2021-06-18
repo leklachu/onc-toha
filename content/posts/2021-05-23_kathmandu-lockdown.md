@@ -32,11 +32,11 @@ Edward Turner
 
 ![Ed's vaccination](/images/news/2021/ktm-lockdown-2.jpg)
 
-![Ed's vaccination](/images/news/2021/ktm-lockdown-3_ktm-post.jpg)
+![Kathmandu Lockdown](/images/news/2021/ktm-lockdown-3_ktm-post.jpg)
 
 \[Photo from  Deepak KC / The Kathmandu Post https://tkpo.st/3u4v0BF\]
 
-![Ed's vaccination](/images/news/2021/ktm-lockdown-4_ktm-post.jpg)
+![Kathmandu Lockdown](/images/news/2021/ktm-lockdown-4_ktm-post.jpg)
 
 \[Photo from Sanjog Manandhar / The Kathmandu Post https://tkpo.st/3ulzcg1\]
 
